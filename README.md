@@ -24,3 +24,5 @@ all wrong answers.
 * Bootstrap
 * HTML
 * CSS
+
+* For live demo have a try @ the Quiz. Link to some fun questions! https://fernandonunez-dev.github.io/JavaScript-Quiz-App/
